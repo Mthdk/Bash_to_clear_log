@@ -1,0 +1,7 @@
+
+/export/home/adm_matheusd.karo/limpar_logs.sh: line 4: /opt/wildfly/standalone/log/server.log: Permission denied
+/export/home/adm_matheusd.karo/limpar_logs.sh: line 5: /var/log/wildfly/console.log: Permission denied
+stat: cannot stat `': No such file or directory
+/export/home/adm_matheusd.karo/limpar_logs.sh: line 11: [: -gt: unary operator expected
+stat: cannot stat `': No such file or directory
+/export/home/adm_matheusd.karo/limpar_logs.sh: line 17: [: -gt: unary operator expected
